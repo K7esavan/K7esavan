@@ -25,5 +25,5 @@ Here are some ideas to get you started:
   <a href="" ><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"></a>&nbsp;
   <a href="" ><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></a>&nbsp;
   <a href="" ><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></a>&nbsp;
-  <a href="" ><img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Neovim-logo.svg"></a>&nbsp;
+  <a href="" ><img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Neovim-logo.svg"></a>&nbsp;
 </p>
