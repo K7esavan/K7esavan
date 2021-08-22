@@ -20,8 +20,8 @@ Here are some ideas to get you started:
   <a href="" ><img width="40" height="40" src="https://image.flaticon.com/icons/png/512/226/226777.png"></a>&nbsp;
   <a href="" ><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></a>&nbsp;
   <a href="" ><img width="40" height="40" src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png"></a>&nbsp;
-  <a href="" ><img width="40" height="40" src="'https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'"></a>&nbsp;
-  <a href="" ><img width="40" height="40" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'>
+  <a href="" ><img width="40" height="40" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg"></a>&nbsp;
+  <a href="" ><img width="40" height="40" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg">
   <a href="" ><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"></a>&nbsp;
   <a href="" ><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></a>&nbsp;
   <a href="" ><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></a>&nbsp;
