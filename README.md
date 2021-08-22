@@ -17,7 +17,6 @@ Here are some ideas to get you started:
   <a href="" ><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></a>&nbsp;
   <a href="" ><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></a>&nbsp;
   <a href="" ><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>&nbsp;
-  <a href="" ><img width="40" height="40" src="https://seeklogo.com/images/J/java-logo-41D4155FC3-seeklogo.com.png"></a>&nbsp;
   <a href="" ><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></a>&nbsp;
   <a href="" ><img width="40" height="40" src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png"></a>&nbsp;
   <a href="" ><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"></a>&nbsp;
