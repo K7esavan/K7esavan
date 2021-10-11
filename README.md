@@ -6,8 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently doing my bachelor's degree in computer science and engineering 
-- 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on Web Apps
+- 👯 I’m looking to collaborate on Java Applications
 - 📫 How to reach me: m.k7esavan@gmail.com
 
 ## Skills 
